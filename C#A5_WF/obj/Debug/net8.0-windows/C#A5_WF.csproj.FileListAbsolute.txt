@@ -1,0 +1,17 @@
+C:\Users\gusta\source\repos\C#A5_WF\C#A5_WF\bin\Debug\net8.0-windows\C#A5_WF.exe
+C:\Users\gusta\source\repos\C#A5_WF\C#A5_WF\bin\Debug\net8.0-windows\C#A5_WF.deps.json
+C:\Users\gusta\source\repos\C#A5_WF\C#A5_WF\bin\Debug\net8.0-windows\C#A5_WF.runtimeconfig.json
+C:\Users\gusta\source\repos\C#A5_WF\C#A5_WF\bin\Debug\net8.0-windows\C#A5_WF.dll
+C:\Users\gusta\source\repos\C#A5_WF\C#A5_WF\bin\Debug\net8.0-windows\C#A5_WF.pdb
+C:\Users\gusta\source\repos\C#A5_WF\C#A5_WF\obj\Debug\net8.0-windows\C_A5_WF.FormContactDetails.resources
+C:\Users\gusta\source\repos\C#A5_WF\C#A5_WF\obj\Debug\net8.0-windows\C#A5_WF.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\C#A5_WF\C#A5_WF\obj\Debug\net8.0-windows\C#A5_WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\C#A5_WF\C#A5_WF\obj\Debug\net8.0-windows\C#A5_WF.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\C#A5_WF\C#A5_WF\obj\Debug\net8.0-windows\C#A5_WF.AssemblyInfo.cs
+C:\Users\gusta\source\repos\C#A5_WF\C#A5_WF\obj\Debug\net8.0-windows\C#A5_WF.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\C#A5_WF\C#A5_WF\obj\Debug\net8.0-windows\C#A5_WF.dll
+C:\Users\gusta\source\repos\C#A5_WF\C#A5_WF\obj\Debug\net8.0-windows\refint\C#A5_WF.dll
+C:\Users\gusta\source\repos\C#A5_WF\C#A5_WF\obj\Debug\net8.0-windows\C#A5_WF.pdb
+C:\Users\gusta\source\repos\C#A5_WF\C#A5_WF\obj\Debug\net8.0-windows\C#A5_WF.genruntimeconfig.cache
+C:\Users\gusta\source\repos\C#A5_WF\C#A5_WF\obj\Debug\net8.0-windows\ref\C#A5_WF.dll
+C:\Users\gusta\source\repos\C#A5_WF\C#A5_WF\obj\Debug\net8.0-windows\C_A5_WF.FormManageContacts.resources
