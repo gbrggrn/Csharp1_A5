@@ -85,9 +85,7 @@ namespace C_A5_WF
 
                 FormContactDetails formUpdateContact;
                 formUpdateContact = new();
-
                 formUpdateContact.LoadRecipeToUpdate(currentCustomer);
-
                 formUpdateContact.ShowDialog();
 
                 if (formUpdateContact.DialogResult == DialogResult.OK && EvalContact(formUpdateContact))
@@ -127,11 +125,8 @@ namespace C_A5_WF
             }
 
             int indexToDelete = customerListBox.SelectedIndex;
-
             customerManager.DeleteCustomer(int.Parse(customerManager.Customers[indexToDelete].CustomerId));
-
             UpdateCustomerListBox();
-
             contactDisplayRichTextBox.Clear();
 
             //Deselect listBox if selected
@@ -219,9 +214,7 @@ namespace C_A5_WF
             }
 
             int indexToDisplay = customerListBox.SelectedIndex;
-
             Contact contact = customerManager.Customers[indexToDisplay].Contact;
-
             string country = contact.Address.Country.ToString();
 
             if (country.Contains('_'))
